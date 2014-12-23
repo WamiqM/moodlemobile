@@ -537,13 +537,13 @@ hr {
 /* - User menu on the left panel
 -------------------------------------------------------------------------- */
 .user-menu {
-  background: #097642;
+  background: #93BE75;
   padding-bottom: 40px;
   height: auto;
 }
 .user-menu header {
   padding: 10px;
-  background: black;
+  background:#253A2A ;
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
   box-shadow: none;
 }
@@ -553,7 +553,7 @@ hr {
   border-radius: 50%;
 }
 .user-menu header h1 {
-  color: #ffffff;
+  color: white;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   font-weight: normal;
   line-height: 20px;
@@ -574,7 +574,7 @@ hr {
   border-bottom: 1px solid rgba(0, 0, 0, 0.1);
 }
 .user-menu .nav-item > a {
-  color: #ffffff;
+  color: black;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   letter-spacing: .5px;
 }
@@ -605,7 +605,7 @@ hr {
   box-shadow: 0 20px 100px 0 rgba(0, 0, 0, 0.1) inset;
 }
 .user-menu .section-header .plugin-name {
-  color: #ffffff;
+  color: black;
   font-size: .75rem;
   text-transform: uppercase;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
