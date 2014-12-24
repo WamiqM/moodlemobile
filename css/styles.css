@@ -299,7 +299,7 @@ hr {
   zoom: 1;
 }
 .media .img {
-  float: left;
+  float: right;
 }
 .media .img img {
   display: block;
