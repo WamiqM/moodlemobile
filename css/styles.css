@@ -343,8 +343,8 @@ hr {
 }
 #add-site h1 img,
 #manage-accounts h1 img {
-  width: 133px;
-  height: auto;
+  width: 150px;
+  height: 100px;
   margin-bottom: 40px;
 }
 #add-site form {
