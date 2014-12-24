@@ -122,7 +122,7 @@ figure {
   margin: 0;
 }
 .logo{
-  float:left;
+  float: left;
 }
 /* =1.6 - Form elements
 --------------------------------------------------------*/
@@ -315,7 +315,7 @@ hr {
 /* =2.6 - LOADING OBJECT
 -------------------------------------------------------------------------- */
 .loading-row {
-  background-image: url(../img/loadingwhite.gif);
+  background-image: url(../img/loading.gif);
   background-repeat: no-repeat;
   background-position: 95% 50%;
 }
@@ -515,7 +515,7 @@ hr {
   letter-spacing: .5px;
 }
 .menu-home {
-  background-image: url(../img/header-home.png);
+  background-image: url(../img/header-home-old.png);
 }
 .menu-back {
   background-image: url(../img/menu-back.png);
@@ -1223,7 +1223,7 @@ hr {
   letter-spacing: .5px;
   text-shadow: 0px 1px 1px rgba(0, 0, 0, 0.2);
   padding: 10px;
-  background-color: #fa8f1c;
+  background-color: #253A2A;
   -webkit-border-radius: 10px 10px 0 0;
   -moz-border-radius: 10px 10px 0 0;
   border-radius: 10px 10px 0 0;
